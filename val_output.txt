@@ -1,0 +1,17 @@
+Ultralytics YOLOv8.0.170  Python-3.11.4 torch-2.0.1+cpu CPU (Intel Core(TM) i5-1035G1 1.00GHz)
+Model summary (fused): 168 layers, 3006428 parameters, 0 gradients
+
+val: Scanning C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\val\labels.cache... 16 images, 5 backgrounds, 0 corrupt: 100%|##########| 21/21 [00:00<?, ?it/s]
+val: Scanning C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\val\labels.cache... 16 images, 5 backgrounds, 0 corrupt: 100%|##########| 21/21 [00:00<?, ?it/s]
+
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):   0%|          | 0/2 [00:00<?, ?it/s]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  50%|#####     | 1/2 [00:02<00:02,  2.73s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|##########| 2/2 [00:03<00:00,  1.67s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|##########| 2/2 [00:03<00:00,  1.83s/it]
+                   all         21        115      0.703      0.847      0.734      0.447
+         Swipe_machine         21         16      0.752          1      0.805        0.5
+               Product         21         73      0.641      0.671      0.669      0.358
+                Person         21         21      0.601      0.717      0.634      0.364
+                  Head         21          5      0.818          1      0.829      0.567
+Speed: 2.1ms preprocess, 101.6ms inference, 0.0ms loss, 13.6ms postprocess per image
+Results saved to runs\detect\val

@@ -1,0 +1,15 @@
+Ultralytics YOLOv8.0.170  Python-3.11.4 torch-2.0.1+cpu CPU (Intel Core(TM) i5-1035G1 1.00GHz)
+Model summary (fused): 168 layers, 3006428 parameters, 0 gradients
+
+image 1/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_315.jpg: 384x640 1 Swipe_machine, 4 Products, 93.1ms
+image 2/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_318.jpg: 384x640 1 Swipe_machine, 4 Products, 71.0ms
+image 3/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_319.jpg: 384x640 1 Swipe_machine, 4 Products, 1 Person, 72.0ms
+image 4/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_399.jpg: 384x640 1 Swipe_machine, 4 Products, 1 Person, 72.4ms
+image 5/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_400.jpg: 384x640 1 Swipe_machine, 4 Products, 1 Person, 81.4ms
+image 6/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_402.jpg: 384x640 1 Swipe_machine, 4 Products, 1 Person, 68.7ms
+image 7/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_403.jpg: 384x640 1 Swipe_machine, 4 Products, 1 Person, 69.0ms
+image 8/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_653.jpg: 384x640 1 Swipe_machine, 7 Products, 2 Persons, 1 Head, 102.4ms
+image 9/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_657.jpg: 384x640 1 Swipe_machine, 8 Products, 2 Persons, 2 Heads, 79.7ms
+image 10/10 C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\test\Liverpool_cam04_630_Clip2_vk1_integrated_15_08_23_frame_659.jpg: 384x640 1 Swipe_machine, 8 Products, 2 Persons, 2 Heads, 81.3ms
+Speed: 2.2ms preprocess, 79.1ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Results saved to runs\detect\predict

@@ -1,0 +1,5 @@
+train: C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\train\images
+val: C:\Users\prana\Desktop\Internship\yolov8\custom_dataset_1\val\images
+
+nc: 4
+names: ['Swipe_machine', 'Product', 'Person', 'Head']
